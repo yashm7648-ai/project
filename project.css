@@ -134,9 +134,9 @@ nav {
 }
 
 .project-card img {
-    width: 100%;
-    border-radius: 10px;
-    margin-bottom: 15px;
+    width: 50%;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
 
 .project-card a {
@@ -147,6 +147,11 @@ nav {
     font-weight: 600;
 }
 
+/* ACHIEVEMENTS */
+.achievements-section {
+    padding: 70px 5%;
+    background: #fff;
+}
 /* CONTACT */
 .contact-section {
     padding: 70px 5%;
